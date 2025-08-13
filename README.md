@@ -1,0 +1,3 @@
+# haytam13011988/sanity_npm_chalk_pr_partial_false-1755082983
+
+Frogbot security scanning repository
